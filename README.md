@@ -18,7 +18,7 @@ VERNALIS는 실무자의 고비용·저효율 수작업 채용 업무를 통합 
 
 <!-- 대표 대시보드 이미지 구역 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a61c0b23-e71f-440c-bfdc-df25d74d910c" width="90%" alt="VERNALIS 대표 대시보드">
+  <img src="./ats_dashboard.png" width="90%" alt="VERNALIS 대표 대시보드">
 </p>
 
 ---
@@ -39,7 +39,7 @@ VERNALIS는 이러한 현업의 페인 포인트를 해결하기 위해 기획�
 외부 지원자의 셀프 접수 파이프라인과 내부 관리자의 채용 운영 흐름이 Spring MVC 및 MySQL 데이터베이스와 유기적으로 연동되는 전체 시스템 아키텍처 흐름도입니다.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f9350da-9c5b-4fa1-988b-83d69fc99297" width="90%" alt="채용 지원자 관리 시스템 흐름도">
+  <img src="./ats_workflow.png" width="90%" alt="채용 지원자 관리 시스템 흐름도">
 </p>
 
 * **외부 지원자 (Applicant Portal)**: 공고 열람 → 이력서 작성 및 UUID 검증 파일 업로드 → 실시간 지원 현황 조회
