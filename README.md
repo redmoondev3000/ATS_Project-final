@@ -141,7 +141,7 @@ VERNALIS의 데이터베이스는 데이터 무결성과 전형 단계별 이력
 * **파일 영속성 및 UUID 검증**: 이력서 첨부파일 업로드 시 UUID 기반 파일명 난수화 및 로컬/서버 Volume Mount 경로 연동을 적용하여 파일 충돌 및 무결성 문제를 해결했습니다.
 
 <p align="center">
-  <img src="./ats_job_posting.png" width="90%" alt="채용 공고 CRUD 및 지원자 포탈 화면">
+  <img src="./ats_job_posting_crud.png" width="90%" alt="채용 공고 CRUD 및 지원자 포탈 화면">
 </p>
 
 </details>
@@ -162,7 +162,7 @@ VERNALIS의 데이터베이스는 데이터 무결성과 전형 단계별 이력
 * **정규식 복합 검증 엔진**: 비밀번호 변경 및 정보 수정 시 정규표현식(Regex) 기반의 복합 조합 규칙(영문, 숫자, 특수문자 조합 및 길이 검증)을 강제하여 계정 보안성을 향상시켰습니다.
 
 <p align="center">
-  <img src="./ats_mypage_validation.png" width="90%" alt="Ajax 중복 검증 및 마이페이지 화면">
+  <img src="./ats_ajax_mypage.png" width="90%" alt="Ajax 중복 검증 및 마이페이지 화면">
 </p>
 
 </details>
