@@ -89,8 +89,13 @@ services:
 VERNALIS의 데이터베이스는 데이터 무결성과 전형 단계별 이력 관리를 최우선으로 설계되었습니다. 
 총 7개의 핵심 테이블이 3차 정규화(3NF) 준수 및 외래키(FK) 관계를 통해 유기적으로 연결되어 있습니다.
 
+<!-- 이미지를 클릭하면 새 창에서 원본 이미지가 크게 열립니다 -->
 <p align="center">
-  <img src="./ats_er_diagram.png" width="100%" alt="VERNALIS ERD Diagram">
+  <a href="./ats_er_diagram.png" target="_blank" title="클릭시 새 창에서 원본 크게 보기">
+    <img src="./ats_er_diagram.png" width="600px" alt="VERNALIS ERD Diagram (클릭시 원본 보기)">
+  </a>
+  <br>
+  <small>🔍 <i>이미지를 클릭하시면 새 창에서 원본 해상도로 크게 보실 수 있습니다.</i></small>
 </p>
 
 ---
@@ -119,11 +124,7 @@ VERNALIS의 데이터베이스는 데이터 무결성과 전형 단계별 이력
 ### 2. 개발 일정 및 리스크 관리 (5주 간트차트)
 5주간의 개발 기간 동안 무분별한 기능 확장 대신, **핵심 기능의 완결성과 디버깅·안정화에 리소스를 집중**하는 전략으로 진행되었습니다.
 
-<p align="center">
-  <img src="./images/gantt_chart.png" width="100%" alt="VERNALIS 5주 개발 간트차트">
-</p>
-
-> 🔗 **[📄 5주 개발 간트차트 원본 파일 보기 (HTML)](./ats_gantt_chart.html)**
+> 🔗 <a href="[https://redmoondev3000.github.io/ATS_Project-final/ats_gantt_chart.html](https://redmoondev3000.github.io/ATS_Project-final/ats_gantt_chart.html)" target="_blank"><b>[📄 5주 개발 간트차트 원본 파일 실시간 보기 (HTML)]</b></a>
 
 * **1~2주차**: 요구사항 정의, DB 설계(ERD), 기본 CRUD 및 파이프라인 골격 구축
 * **3~4주차**: 핵심 기능 개발 (채용 공고, 파이프라인 UI, AI 지원서 분석 연동, RBAC 권한 제어)
