@@ -59,7 +59,7 @@ VERNALIS는 이러한 현업의 페인 포인트를 해결하기 위해 기획�
 | **AI & Library** | Google Gemini API (gemini-2.5-flash-lite), Apache POI, Java Mail API |
 | **Environment & Tools** | Eclipse IDE, VS Code, Git / GitHub |
 
-> 🔗 **[📄 레이어별 상세 기술 스택 다이어그램 원본 보기 (HTML)](./tech_stack.html)**
+> 🔗 <a href="https://redmoondev3000.github.io/ATS_Project-final/tech_stack.html" target="_blank"><b>[📄 레이어별 상세 기술 스택 다이어그램 원본 실시간 보기 (HTML)]</b></a>
 
 ---
 
