@@ -191,9 +191,16 @@ VERNALIS의 데이터베이스는 데이터 무결성과 전형 단계별 이력
   * **[편의성] 마스킹 비밀번호 가시성(Show/Hide) 토글**: 마스킹 처리된 입력값을 실시간으로 확인할 수 있는 토글 기능을 추가해 오타 검증 및 작성 편의성 극대화.
 * **개선 결과 (Result)**: 데이터 무결성 100% 확보, 계정 보안성 강화, 사용자 입력 오타율 감소 및 편의성 극대화.
 
-<!-- [2번 이슈: 유효성 검증 및 보안 고도화 구조도] 시각 자원 배치 구역 -->
 <p align="center">
-  <!-- <img src="./ats_trouble_validation.png" width="85%" alt="유효성 검증 고도화 구조도"> -->
+  <a href="./ats_trouble_integrity.png" target="_blank">
+    <img src="./ats_trouble_integrity.png" width="31%" alt="무결성: Ajax 실시간 중복 필터링">
+  </a>
+  <a href="./ats_trouble_security.png" target="_blank">
+    <img src="./ats_trouble_security.png" width="31%" alt="보안성: 정규표현식 검증 엔진">
+  </a>
+  <a href="./ats_trouble_usability.png" target="_blank">
+    <img src="./ats_trouble_usability.png" width="31%" alt="편의성: 비밀번호 가시성 토글">
+  </a>
 </p>
 
 ---
